@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="bqxin" unicode="&#59019;" d="M590.223661 721.033086C378.65076 913.42474 27.357977 786.174372 27.357977 475.288265 27.357977 48.905841 590.223661-195.54433 590.223661-195.54433 590.223661-195.54433 1153.089344 69.994992 1153.089344 475.288265 1153.123414 786.174372 840.022777 908.178004 590.223661 721.033086L590.223661 721.033086Z"  horiz-adv-x="1159" />
+
+    
+
+
+  </font>
+</defs></svg>
